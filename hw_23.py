@@ -1,6 +1,6 @@
-a = input("input a: ")
-b = input("input b: ")
-c = input("input c: ")
+a = int(input("input a: "))
+b = int(input("input b: "))
+c = int(input("input c: "))
 
 
 def checkIfOne(a, b, c):
