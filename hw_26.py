@@ -7,7 +7,7 @@ f = c % 2
 
 
 if (a == n ) and (n >0):
-    Print(1)
+    print(1)
 
 elif (b == d ) and (d >0):
     print(1)
